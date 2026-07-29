@@ -1,9 +1,9 @@
 ### Hey, I'm Sebastien
 
-Solution Architect. Building in public.
+Salesforce Delivery Director for complex enterprise programs.
 
-**Stack:** TypeScript, Astro, Cloudflare Workers, Salesforce Platform
+I stabilize and land complex Salesforce programs when business, integrator and technical teams are drifting apart.
 
-**Currently shipping:** [Alfred Framework](https://github.com/sebastientang/alfred-framework) — a framework for building self-improving AI executive assistants with Claude Code
+15 years in IT, including more than 10 years in Salesforce implementation and delivery.
 
 [LinkedIn](https://www.linkedin.com/in/sebastientang) · [sebastientang.com](https://sebastientang.com) · [@sebtangSF](https://x.com/sebtangSF)
